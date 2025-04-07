@@ -35,3 +35,16 @@ las instrucciones de bloque
     INSTRUCCION 1
     INSTRUCCION 2 ....
 ```
+
+## Cliclo For(Python):
+
+Ciclo utilizado para iterar colecciones 
+de datos
+
+### SINTAXIS
+
+```
+for <variable_almacenamiento> in coleccion:
+     INSTRUCCION 1
+     INSTRUCCION 2
+     
